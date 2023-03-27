@@ -2,5 +2,5 @@
 Data Analysis only using Python
 ## Contributors
 
-- ecebaybas
-- DogukanUlger
+- https://github.com/DogukanUlger
+- https://github.com/ecebaybas
