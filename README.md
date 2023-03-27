@@ -4,3 +4,6 @@ Data Analysis only using Python
 
 - https://github.com/DogukanUlger
 - https://github.com/ecebaybas
+- Merve Kalender
+- Ece Derdiyok
+- Oğuzhan Sinan Yıldırım
